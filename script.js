@@ -1,6 +1,7 @@
 'use strics';
 
-const modal = document.querySelector('modal');
-const overlay = document.querySelector('overlay');
-const btnCloseModal = document.querySelector('close-modal');
-const btnsOpenModal = document.querySelectorAll('show-modal'); //multiple btns to show model so we use querySelectorAll
+const modal = document.querySelector('.modal');
+const overlay = document.querySelector('.overlay');
+const btnCloseModal = document.querySelector('.close-modal');
+const btnsOpenModal = document.querySelectorAll('.show-modal');
+
