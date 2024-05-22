@@ -1,1 +1,1 @@
-![App Link](https://waseemrabah.github.io/Modal-Window/)
+[App Link](https://waseemrabah.github.io/Modal-Window/)
